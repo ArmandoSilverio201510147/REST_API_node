@@ -1,0 +1,16 @@
+[{
+        "id": "1",
+        "title": "Aliens",
+        "director": "Mustaine",
+        "year": "1998",
+        "rating": "3.5"
+    },
+
+    {
+        "id": "2",
+        "title": "Terminator",
+        "director": "James",
+        "year": "1999",
+        "rating": "4.9"
+    }
+]
